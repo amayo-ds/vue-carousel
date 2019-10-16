@@ -109,7 +109,7 @@ export default {
       ] = `${carousel.paginationPadding * 2}px`;
 
       Object.assign(basicBtnStyle, {
-        padding: `${carousel.paginationPadding}px`,
+        // padding: `${carousel.paginationPadding}px`,
         width: `${carousel.paginationSize}px`,
         height: `${carousel.paginationSize}px`,
         "background-color": `${
